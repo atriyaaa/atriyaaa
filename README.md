@@ -35,7 +35,7 @@ Machine-learning web application for classifying cancer subtypes from high-dimen
 
 **Tech:** Python • Scikit-learn • PyTorch • SHAP • Django REST Framework • React
 
-[View Repository](https://github.com/atriyaaa/FinalYearProject) • [Live Demo](https://cancerxai.vercel.app)
+[View Repository](https://github.com/atriyaaa/CancerXAI) • [Live Demo](https://cancerxai.vercel.app)
 
 ---
 
