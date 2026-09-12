@@ -2,7 +2,7 @@
 
 Computer Science graduate from the **University of Surrey**, interested in **Data Analytics, Business Intelligence, Technology and Cybersecurity/GRC**.
 
-I enjoy turning data and technical problems into practical solutions — from analysing operational data and building dashboards to developing machine learning and full-stack applications.
+I enjoy turning data and technical problems into practical solutions, from analysing operational data and building dashboards to developing machine learning and full-stack applications.
 
 Currently, I'm strengthening my technical portfolio while pursuing **graduate and junior opportunities across Data/BI, Technology and Cybersecurity**.
 
